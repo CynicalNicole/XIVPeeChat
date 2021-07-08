@@ -1,0 +1,11 @@
+{
+  "Author": "Yhumi Noire",
+  "Name": "XIVPeeChat",
+  "Description": "Use /pee to use yell chat for all your peechat needs.",
+  "InternalName": "peeChat",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/CynicalNicole/XIVPeeChat",
+  "ApplicableVersion": "any",
+  "Tags": [ "yell", "peechat", "limsa" ],
+  "DalamudApiLevel": 3
+}
